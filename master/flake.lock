@@ -42,11 +42,11 @@
     "src-illwave-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1651843863,
-        "narHash": "sha256-onouZWMudA9iJ8sNWD8s35pMhH+bzRCABhowwqax5cY=",
+        "lastModified": 1652367919,
+        "narHash": "sha256-6ShDGRyijzvADIYtpRqT2yvBzLVaO1UBGioGJris0SU=",
         "owner": "ansiwave",
         "repo": "illwave",
-        "rev": "2d58e9a118b2f9066626c3a3f1e43f7e841f848d",
+        "rev": "163169c129b6454bc37c5cea6dd29c665d20e557",
         "type": "github"
       },
       "original": {

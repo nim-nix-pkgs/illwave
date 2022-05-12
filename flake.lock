@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1651890227,
-        "narHash": "sha256-mtPjtamZckjfW3hB5dHvgwB81u7O6cuKNOLCvIqVBnA=",
+        "lastModified": 1651918026,
+        "narHash": "sha256-C+hQS+0F83qA+29mavbrW2BhpsR5sfsjAVVnch11E9A=",
         "owner": "nim-nix-pkgs",
         "repo": "illwave",
-        "rev": "a376712a86c531127cde4b741295123f74821279",
+        "rev": "b422857f238eccc52c14f503862dcf5e4b699072",
         "type": "github"
       },
       "original": {
