@@ -21,6 +21,33 @@
         "type": "github"
       }
     },
+    "illwave-0_1_0": {
+      "inputs": {
+        "flakeNimbleLib": [
+          "flakeNimbleLib"
+        ],
+        "nixpkgs": [
+          "nixpkgs"
+        ],
+        "src-illwave-0_1_0": "src-illwave-0_1_0"
+      },
+      "locked": {
+        "dir": "0_1_0",
+        "lastModified": 1652765292,
+        "narHash": "sha256-jjSMTdarZQKrq8+i+6g4XtgrCxQpCZkjiUo5dgMW/xs=",
+        "owner": "nim-nix-pkgs",
+        "repo": "illwave",
+        "rev": "0d2df1916a326494691689159ed7d89e60ff3dc8",
+        "type": "github"
+      },
+      "original": {
+        "dir": "0_1_0",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "illwave",
+        "type": "github"
+      }
+    },
     "illwave-master": {
       "inputs": {
         "flakeNimbleLib": [
@@ -33,11 +60,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1651918026,
-        "narHash": "sha256-C+hQS+0F83qA+29mavbrW2BhpsR5sfsjAVVnch11E9A=",
+        "lastModified": 1652765292,
+        "narHash": "sha256-jjSMTdarZQKrq8+i+6g4XtgrCxQpCZkjiUo5dgMW/xs=",
         "owner": "nim-nix-pkgs",
         "repo": "illwave",
-        "rev": "b422857f238eccc52c14f503862dcf5e4b699072",
+        "rev": "0d2df1916a326494691689159ed7d89e60ff3dc8",
         "type": "github"
       },
       "original": {
@@ -62,18 +89,36 @@
     "root": {
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
+        "illwave-0_1_0": "illwave-0_1_0",
         "illwave-master": "illwave-master",
         "nixpkgs": "nixpkgs"
+      }
+    },
+    "src-illwave-0_1_0": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1652783398,
+        "narHash": "sha256-knveKmrLXSGzTjsEr5s4DWRlLNYVJpCUmS7E4EzZc24=",
+        "owner": "ansiwave",
+        "repo": "illwave",
+        "rev": "35ad9b8e39a7caffcadf89983332320d7a78fca9",
+        "type": "github"
+      },
+      "original": {
+        "owner": "ansiwave",
+        "ref": "refs/tags/0.1.0",
+        "repo": "illwave",
+        "type": "github"
       }
     },
     "src-illwave-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1651843863,
-        "narHash": "sha256-onouZWMudA9iJ8sNWD8s35pMhH+bzRCABhowwqax5cY=",
+        "lastModified": 1652367919,
+        "narHash": "sha256-6ShDGRyijzvADIYtpRqT2yvBzLVaO1UBGioGJris0SU=",
         "owner": "ansiwave",
         "repo": "illwave",
-        "rev": "2d58e9a118b2f9066626c3a3f1e43f7e841f848d",
+        "rev": "163169c129b6454bc37c5cea6dd29c665d20e557",
         "type": "github"
       },
       "original": {
