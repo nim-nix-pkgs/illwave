@@ -37,22 +37,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-illwave-master": "src-illwave-master"
+        "src-illwave-0_4_0": "src-illwave-0_4_0"
       }
     },
-    "src-illwave-master": {
+    "src-illwave-0_4_0": {
       "flake": false,
       "locked": {
-        "lastModified": 1655517489,
-        "narHash": "sha256-aKNk6L3bkdmFtTa1GEkl+bK1vWMhtPHsbP7KdTU/+lQ=",
+        "lastModified": 1653817003,
+        "narHash": "sha256-HqeXFOz6EynFMgTvXy21RrGuBnOo3M6K5Efdw8Hb4mI=",
         "owner": "ansiwave",
         "repo": "illwave",
-        "rev": "81ef37c58948be09bad8d288b5e821fd1d58a9e1",
+        "rev": "f24bec387adaec07cc3bcface6604ed96f4ca462",
         "type": "github"
       },
       "original": {
         "owner": "ansiwave",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/0.4.0",
         "repo": "illwave",
         "type": "github"
       }
